@@ -1,0 +1,5 @@
+***************************************************************************
+You have been used to the life in the forest. Now here is a branch road in front of you.
+Decide your way(1~2):
+1. Way to flatland
+2. Keep walking in the forest.

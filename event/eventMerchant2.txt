@@ -1,0 +1,9 @@
+***************************************************************************
+A merchant is selling his hand-made potion and props.
+It even supports bancontact and mastero payment !
+Select (1~5):
+1. Big blue button.  (Health Restore +150):150 Coins
+2. Farron Greatsword.  (Attack +25):125 Coins
+3. Chain mail.  (Defense Up+10):75 coins
+4. Bestseller 'How to cook a cake better than your mom.' (Level Up lv+2):180 coins
+5. No thanks, I am now saving money for cyberpunk 2077.  (Do not buy anything )

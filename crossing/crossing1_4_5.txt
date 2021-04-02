@@ -1,0 +1,5 @@
+***************************************************************************
+You have been walking in the forest for two days. Now here is a branch road in front of you.
+Decide your way(1~2):
+1. Keep walking in the forest.
+2. Way to flatland

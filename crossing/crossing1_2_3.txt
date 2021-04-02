@@ -1,0 +1,5 @@
+***************************************************************************
+Select (1~3):
+1. Forest: A great variety of plants exist in this forest.
+2. Cave: When the wind blows in the cave, it sounds like wolf's howling.
+3. Valley: A river flows along the valley. Maybe there is a way out down the river.

@@ -1,0 +1,5 @@
+***************************************************************************
+After a battle you are now at a branch road.
+Decide your way.(1~2):
+1. To explore in the caves.
+2. Climb up to the highland.

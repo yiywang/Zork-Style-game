@@ -1,0 +1,4 @@
+***************************************************************************
+A tree with fruits in strange colors grows on the side on your way.
+Eat fruits on the tree?
+Select (Y/N) 

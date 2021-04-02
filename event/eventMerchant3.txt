@@ -1,0 +1,9 @@
+***************************************************************************
+A merchant is selling his hand-made potion and props.
+Please keep 1.5m social distance apart from others in the queue.
+Select (1~5):
+1. A cup of cappuccino.  (Health +300):200 Coins
+2. Samurai katana.  (Attack +50):150 Coins
+3. Diamond armour.  (Defense +20) : 100 Coins
+4. Brouche 'Learn and command Python in a month.' (Level Up! lv+3) :250 Coins
+5. 100% discount if I don't buy. (Not to purchase anything!)

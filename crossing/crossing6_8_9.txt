@@ -1,0 +1,6 @@
+***************************************************************************
+The high land could have a good sight of scene and you spend several days here.
+You are in good mood but now you are at a branch road.
+Decide your way(1~2):
+1. Explore in the caves.
+2. Keep walking on the highland.

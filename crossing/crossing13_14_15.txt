@@ -1,0 +1,5 @@
+***************************************************************************
+You walked in the valley and now you are at a branch road.
+Choose your branch(1~2):
+1. Choose the road leads to flatland.
+2. Continue to walk in the valley.

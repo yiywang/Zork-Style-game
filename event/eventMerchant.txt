@@ -1,0 +1,10 @@
+***************************************************************************
+A merchant is selling his hand-made potion and props.
+Wait! Why a merchant appears in such a place!
+Select (1~5):
+1. Red bottle.  (Health Restore +50): 100 coins 	
+2. Iron sword.  (Attack Up +10)  :100 coins
+3. Ordinary armour.  (Defense UP +5) : 50 coins
+4. Master's Thesis Collection of VUB.  (You attain a lot of knowledege, and therefore your Level Up.) :100 coins
+Tips:Higher level, higher maximum health.
+5. No thanks.  (Do not buy anything.)
